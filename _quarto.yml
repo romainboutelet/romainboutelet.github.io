@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Romain Boutelet"
+  site-url: "https://www.romainboutelet.github.io/"
   navbar:
     background: "#18453B"
     left:
