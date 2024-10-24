@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Romain Boutelet"
+  navbar:
+    background: "#18453B"
+    left:
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: contact.qmd
+        text: Contact
+    right: 
+      - icon: github
+        href: https://github.com/romainboutelet
+        aria-label: GitHub
+        target: "_blank"
+        rel: "noopener noreferrer"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+
