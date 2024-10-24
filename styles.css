@@ -18,9 +18,10 @@ div.quarto-about-trestles {
     }
     display: flex !important;
     flex-direction: column;
+    /* These next 3 lines are changed for adjusting     size of left column*/ 
     flex-shrink: 1;
     flex-grow: 0;
-    flex-basis: 5%;
+    flex-basis: 10%;
     align-items: center;
     text-align: center;
     padding-right: 2em;
@@ -42,8 +43,10 @@ div.quarto-about-trestles {
   }
 
   .about-contents {
+   /* These next 3 lines are changed for adjusting     size of right column*/ 
     flex-shrink: 1;
     flex-grow: 1;
+    flex-basis: 90%;
 
     h2 {
       border-bottom: none;
