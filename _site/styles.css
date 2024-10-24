@@ -1,0 +1,61 @@
+/* css styles */
+
+div.quarto-about-trestles {
+  display: flex !important;
+  flex-direction: row;
+  padding-top: 3em !important;
+  padding-bottom: 1em;
+
+  @include media-breakpoint-down(lg) {
+    flex-direction: column;
+    padding-top: 0em !important;
+  }
+  
+  .about-entity {
+    @include media-breakpoint-up(lg) {
+      //max-width: 42%;
+      flex: 0 0 42%;
+    }
+    display: flex !important;
+    flex-direction: column;
+    flex-shrink: 1;
+    flex-grow: 0;
+    flex-basis: 5%;
+    align-items: center;
+    text-align: center;
+    padding-right: 2em;
+
+    .about-image {
+      object-fit: cover;
+      margin-bottom: 1.5em;
+    }
+    @include image-shapes();
+
+    .about-links {
+      @include responsive-buttons();
+      justify-content: center;
+    }
+
+    .about-link {
+      @include responsive-button();
+    }
+  }
+
+  .about-contents {
+    flex-shrink: 1;
+    flex-grow: 1;
+
+    h2 {
+      border-bottom: none;
+    }
+
+    @include media-breakpoint-up(lg) {
+      border-left: solid 1px $border-color;
+      padding-left: 1.5em;
+    }
+
+    main.content {
+      margin-top: 0;
+    }
+  }
+}
