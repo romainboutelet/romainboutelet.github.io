@@ -22,7 +22,6 @@ website:
         rel: "noopener noreferrer"
       - icon: envelope-at
         href: mailto:boutelet@msu.edu
-        
 
 format:
   html:
