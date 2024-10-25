@@ -1,5 +1,10 @@
 ---
 title: "Contact"
+
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
 ### Need to include my contact information here

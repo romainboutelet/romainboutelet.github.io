@@ -1,3 +1,8 @@
 ---
 title: "Research"
+
+format:
+  html:
+    page-layout: full
+    toc: true
 ---
