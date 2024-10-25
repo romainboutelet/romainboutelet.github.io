@@ -6,7 +6,7 @@ website:
   title: "Romain Boutelet"
   site-url: "https://www.romainboutelet.github.io/"
   navbar:
-    background: "#18453B"
+    background: $green
     left:
       - href: about.qmd
         text: About
@@ -26,7 +26,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - assets/styles.scss
     css: styles.css
     toc: true
 

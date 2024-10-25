@@ -1,13 +1,15 @@
 /* css styles */
-
-.about-contents {
-  flex-grow: 1 !important;
-  flex-shrink: 0 !important;
-  flex-basis: 75% !important;
-}
-
-.about-entity {
-  flex-grow: 0 !important;
-  flex-shrink: 1 !important;
-  flex-basis: 15% !important;
-}
+  
+  .about-contents {
+    flex-grow: 1 !important;
+    flex-shrink: 0 !important;
+    flex-basis: 75% !important;
+    border-left: solid 1px #18453B !important;
+  }
+  
+  .about-entity {
+    flex-grow: 1 !important;
+    flex-shrink: 1 !important;
+    flex-basis: 15% !important;
+    padding-right: 1.5em !important;  
+  }

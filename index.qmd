@@ -9,6 +9,7 @@ about:
 format:
   html:
     page-layout: full
+    css: styles.css
     toc: false
 ---
 
@@ -21,4 +22,6 @@ My research interests include Computer Experiments and Uncertainty Quantificatio
 ### News
 
 -   **\[Oct 24\]** I will be presenting "Active Learning for Multi-Fidelity Computer Experiments with Different Mesh Densities" [(slides)](files/RomainBoutelet_INFORMS_24.pdf){target="_blank"} at the 2024 INFORMS Annual Meeting in Seattle, WA.
+-   **\[Oct 24\]** I presented my [poster](files/ENVR_24_Poster.pdf){target="_blank"} "Weighted Moving Window Score: a flexible spatial verification scoring method"  for the ENVR 2024 Workshop in Boulder, CO.
 -   **\[Aug 24\]** I presented my work "Active Learning for Multi-Fidelity Computer Experiments with Different Mesh Densities" at the 2024 Joint Statistical Meetings in Portland, OR.
+
