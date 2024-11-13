@@ -1,5 +1,19 @@
 ---
 title: "Romain Boutelet"
+
+subtitle: |
+  (he/him)
+  
+  Michigan State University
+
+include-in-header: 
+  text: |
+    <style>
+    .quarto-title p {
+      margin-bottom:0
+    }
+    </style>
+
 image: images/website_pic.jpg
 about: 
   template: trestles
