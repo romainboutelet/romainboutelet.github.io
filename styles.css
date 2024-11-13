@@ -5,6 +5,7 @@
     flex-shrink: 0 !important;
     flex-basis: 75% !important;
     border-left: solid 1px #18453B !important;
+    padding-left: 1.5em !important;  
   }
   
   .about-entity {
