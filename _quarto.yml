@@ -3,26 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "Romain Boutelet"
+  title: "<strong>Romain Boutelet</strong>"
   site-url: "https://www.romainboutelet.github.io/"
   navbar:
     background: $green
     left:
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
-      - href: contact.qmd
-        text: Contact
+      - href: about.qmd
+        text: About me
     right: 
       - icon: github
         href: https://github.com/romainboutelet
         aria-label: GitHub
         target: "_blank"
         rel: "noopener noreferrer"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/romainboutelet
+        target: "_blank"
+        rel: "noopener noreferrer"
+      - href: https://orcid.org/0009-0001-1535-3429
+        text: "<img src='assets/images/orcid.svg' style='height: 1.2em; vertical-align: middle;'>"
+        aria-label: ORCID
+        target: "_blank"
+        rel: "noopener noreferrer"
       - icon: envelope-at
         href: mailto:boutelet@msu.edu
-
 format:
   html:
     theme:

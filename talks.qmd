@@ -1,0 +1,14 @@
+---
+title: "Contact"
+
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+## 2025
+
+-   **\[Aug 25\]** I will be at [JSM](https://ww2.amstat.org/meetings/jsm/2025/) in Nashville, don't hesitate to contact me if you'd like to meet!
+-   **\[Jun 25\]** I presented "Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function" ([slides](files/SRC25_RomainBoutelet.pdf)) at the Student Travel Award Invited Session for the 2025 Spring Research Conference in New York, NY.
+-   **\[Mar 25\]** The paper "Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function" is on [arXiv](https://arxiv.org/abs/2503.23158).

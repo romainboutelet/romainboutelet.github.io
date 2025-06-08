@@ -1,8 +1,20 @@
 ---
-title: "Research"
+title: Research
 
 format:
   html:
     page-layout: full
     toc: true
 ---
+
+My research interests are focused on developing methodologies in spatial statistics and computer model simulations. I am working in a wide array of areas from environmental and earth sciences as well as with engineering statistics. Specific areas that I have been working on include surrogate modeling, design of experiments and inverse problems. I am currently working on developing a methodology for spatio-temporal binary/multinomial variables in a point-referenced context, and on a separate project that focuses on developing a spatial verification scoring rule for meteorological forecasts with the National Renewable Energy Laboratory.
+
+### Preprints
+
+**Romain Boutelet**, Chih-Li Sung (2025+). Active learning for finite element simulations with adaptive non-stationary kernel function. *arXiv preprint* [<i class="bi bi-link-45deg"></i>](https://arxiv.org/abs/2503.23158)
+
+### Talks
+
+Student Travel Award Invited Session for the Spring Research Conference in New York, NY (2025)
+
+Poster at the ENVR Workshop: Spatial Data Science for the Environment in Boulder, CO (2024)

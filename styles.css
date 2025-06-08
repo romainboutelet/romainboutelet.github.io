@@ -14,3 +14,10 @@
     flex-basis: 15% !important;
     padding-right: 1.5em !important;  
   }
+
+/* Style navbar images like icons */
+.navbar .nav-link img {
+  height: 1.25em;
+  vertical-align: text-bottom;
+  margin-top: -2px;  /* Optional fine-tuning */
+}

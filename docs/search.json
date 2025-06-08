@@ -18,6 +18,27 @@
     "href": "index.html",
     "title": "Romain Boutelet",
     "section": "",
-    "text": "Quick bio\nI am Romain Boutelet, a fourth year PhD student in the Department of Statistics and Probability at Michigan State University. I am very grateful to be advised by Dr. Chih-Li Sung, and to be part of the Finley Lab under the supervision of Dr. Andrew Finley.\nMy research interests include Computer Experiments and Uncertainty Quantification in the broad context of Engineering Sciences as well as Spatial Statistics.\n\n\nNews\n\n[Oct 24] I will be presenting “Active Learning for Multi-Fidelity Computer Experiments with Different Mesh Densities” (slides) at the 2024 INFORMS Annual Meeting in Seattle, WA.\n[Oct 24] I presented my poster “Weighted Moving Window Score: a flexible spatial verification scoring method” for the ENVR 2024 Workshop in Boulder, CO.\n[Aug 24] I presented my work “Active Learning for Multi-Fidelity Computer Experiments with Different Mesh Densities” at the 2024 Joint Statistical Meetings in Portland, OR."
+    "text": "Quick bio\nI ama PhD candidate in the Department of Statistics and Probability at Michigan State University. I am very grateful to be advised by Dr. Chih-Li Sung, as well as being part of the Finley Lab under the supervision of Dr. Andrew Finley.\nMy research interests include Computer Experiments and Uncertainty Quantification in the broad context of Engineering Sciences as well as Spatial Statistics.\n\n\nNews\n\n[Aug 25] I will be at JSM in Nashville, don’t hesitate to contact me if you’d like to meet!\n[Jun 25] I presented “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” (slides) at the Student Travel Award Invited Session for the 2025 Spring Research Conference in New York, NY.\n[Mar 25] The paper “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” is on arXiv.\n[Oct 24] I received the Student Travel Award for the ENVR 2024 Workshop in Boulder, CO, where I presented my poster “Weighted Moving Window Score: a flexible spatial verification scoring method”."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Contact",
+    "section": "",
+    "text": "[Aug 25] I will be at JSM in Nashville, don’t hesitate to contact me if you’d like to meet!\n[Jun 25] I presented “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” (slides) at the Student Travel Award Invited Session for the 2025 Spring Research Conference in New York, NY.\n[Mar 25] The paper “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” is on arXiv."
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Contact",
+    "section": "",
+    "text": "[Aug 25] I will be at JSM in Nashville, don’t hesitate to contact me if you’d like to meet!\n[Jun 25] I presented “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” (slides) at the Student Travel Award Invited Session for the 2025 Spring Research Conference in New York, NY.\n[Mar 25] The paper “Active Learning for Finite Element Simulations with Adaptive Non-Stationary Kernel Function” is on arXiv."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests are focused on developing methodologies in spatial statistics and computer model simulations. I am working in a wide array of areas from environmental and earth sciences as well as with engineering statistics. Specific areas that I have been working on include surrogate modeling, design of experiments and inverse problems. I am currently working on developing a methodology for spatio-temporal binary/multinomial variables in a point-referenced context, and on a separate project that focuses on developing a spatial verification scoring rule for meteorological forecasts with the National Renewable Energy Laboratory.\n\nPreprints\nRomain Boutelet, Chih-Li Sung (2025+). Active learning for finite element simulations with adaptive non-stationary kernel function. arXiv preprint \n\n\nTalks\nStudent Travel Award Invited Session for the Spring Research Conference in New York, NY (2025)\nPoster at the ENVR Workshop: Spatial Data Science for the Environment in Boulder, CO (2024)"
   }
 ]
