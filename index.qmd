@@ -29,7 +29,7 @@ format:
 
 ### Quick bio
 
-I ama PhD candidate in the Department of Statistics and Probability at Michigan State University. I am very grateful to be advised by [Dr. Chih-Li Sung](https://chihli.github.io/){target="_blank"}, as well as being part of the [Finley Lab](https://www.finley-lab.com/){target="_blank"} under the supervision of Dr. Andrew Finley.
+I am a PhD candidate in the Department of Statistics and Probability at Michigan State University. I am very grateful to be advised by [Dr. Chih-Li Sung](https://chihli.github.io/){target="_blank"}, as well as being part of the [Finley Lab](https://www.finley-lab.com/){target="_blank"} under the supervision of Dr. Andrew Finley.
 
 My research interests include Computer Experiments and Uncertainty Quantification in the broad context of Engineering Sciences as well as Spatial Statistics.
 
