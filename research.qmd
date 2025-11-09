@@ -13,8 +13,12 @@ My research interests are focused on developing methodologies in spatial statist
 
 **Romain Boutelet**, Chih-Li Sung (2025+). Active learning for finite element simulations with adaptive non-stationary kernel function. *arXiv preprint* [<i class="bi bi-link-45deg"></i>](https://arxiv.org/abs/2503.23158)
 
-### Talks
+### Softwares
+
+**Romain Boutelet**, Chih-Li Sung (2025). **MuFiMeshGP**: Multi-Fidelity Emulator for Computer Experiments with Tunable Fidelity Levels. R package version 0.0.1. <https://cran.r-project.org/package=MuFiMeshGP>
+
+### Distinctions
 
 Student Travel Award Invited Session for the Spring Research Conference in New York, NY (2025)
 
-Poster at the ENVR Workshop: Spatial Data Science for the Environment in Boulder, CO (2024)
+Student Travel Award for the ENVR Workshop: Spatial Data Science for the Environment in Boulder, CO (2024)
